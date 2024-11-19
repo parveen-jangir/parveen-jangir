@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am Praveen Jnagir as you know <br>
+I am pursuing Engineering from Govt. Engineering College Bikaner <br>
+✨I am currently working on <b>Advanced Classroom based Biometric Attendance System</b>✨
 <!--
 **parveen-jangir/parveen-jangir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
