@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Praveen Jnagir as you know <br>
+I am <b>Praveen Jangir</b><br>
 I am pursuing Engineering from Govt. Engineering College Bikaner <br>
 ✨I am currently working on <b>Advanced Classroom based Biometric Attendance System</b>✨
 <!--
