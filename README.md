@@ -38,9 +38,7 @@
 
 ## 📊 GitHub Widgets
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parveen-jangir&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parveen-jangir&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parveen-jangir&layout=compact&theme=radical)
 
 ---
 
