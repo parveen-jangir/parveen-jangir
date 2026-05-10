@@ -38,7 +38,7 @@
 
 ## 📊 GitHub Widgets
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parveen-jangir&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=parveen-jangir&theme=transparent)](https://git.io/streak-stats)
 
 ---
 
