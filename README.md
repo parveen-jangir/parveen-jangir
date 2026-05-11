@@ -42,6 +42,11 @@
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=parveen-jangir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 ## 📫 Let's Collaborate
 
 I'm open to:
